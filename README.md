@@ -1,0 +1,2 @@
+# OpenShiftSample
+From beginning
